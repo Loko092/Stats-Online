@@ -26,7 +26,5 @@
 
 🎮 Для каких игр подходит?
 
-Шутеры	CS:GO, Valorant, Call of Duty, Apex Legends, PUBG, Overwatch	Отслеживание K/D, анализ смертельных раундов
-Королевские битвы	Fortnite, Warzone, PUBG	Статистика по заходам, выживаемость
-MOBA	League of Legends, Dota 2	Соотношение убийств/смертей, помощь команде
-Battle Royale	Apex, Warzone	Прогресс по сезонам
+CS:GO, Valorant, Brawl Stars, Fortnite, Dota 2
+В будущем будет больше игр
