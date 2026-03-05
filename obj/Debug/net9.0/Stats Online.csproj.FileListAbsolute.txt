@@ -1,0 +1,14 @@
+C:\Users\studentcoll\Desktop\Багуцкий Герман\Stats Online\Stats Online\bin\Debug\net9.0\Stats Online.exe
+C:\Users\studentcoll\Desktop\Багуцкий Герман\Stats Online\Stats Online\bin\Debug\net9.0\Stats Online.deps.json
+C:\Users\studentcoll\Desktop\Багуцкий Герман\Stats Online\Stats Online\bin\Debug\net9.0\Stats Online.runtimeconfig.json
+C:\Users\studentcoll\Desktop\Багуцкий Герман\Stats Online\Stats Online\bin\Debug\net9.0\Stats Online.dll
+C:\Users\studentcoll\Desktop\Багуцкий Герман\Stats Online\Stats Online\bin\Debug\net9.0\Stats Online.pdb
+C:\Users\studentcoll\Desktop\Багуцкий Герман\Stats Online\Stats Online\obj\Debug\net9.0\Stats Online.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentcoll\Desktop\Багуцкий Герман\Stats Online\Stats Online\obj\Debug\net9.0\Stats Online.AssemblyInfoInputs.cache
+C:\Users\studentcoll\Desktop\Багуцкий Герман\Stats Online\Stats Online\obj\Debug\net9.0\Stats Online.AssemblyInfo.cs
+C:\Users\studentcoll\Desktop\Багуцкий Герман\Stats Online\Stats Online\obj\Debug\net9.0\Stats Online.csproj.CoreCompileInputs.cache
+C:\Users\studentcoll\Desktop\Багуцкий Герман\Stats Online\Stats Online\obj\Debug\net9.0\Stats Online.dll
+C:\Users\studentcoll\Desktop\Багуцкий Герман\Stats Online\Stats Online\obj\Debug\net9.0\refint\Stats Online.dll
+C:\Users\studentcoll\Desktop\Багуцкий Герман\Stats Online\Stats Online\obj\Debug\net9.0\Stats Online.pdb
+C:\Users\studentcoll\Desktop\Багуцкий Герман\Stats Online\Stats Online\obj\Debug\net9.0\Stats Online.genruntimeconfig.cache
+C:\Users\studentcoll\Desktop\Багуцкий Герман\Stats Online\Stats Online\obj\Debug\net9.0\ref\Stats Online.dll
